@@ -1,0 +1,27 @@
+## Build and Binary Directories
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio & Rider cache files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS Generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+## Log files
+*.log
+
+## SQLite database runtime files
+*.db-shm
+*.db-wal
+gym.db
