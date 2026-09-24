@@ -89,6 +89,32 @@ For first-time setup and evaluation:
 
 ---
 
+---
+
+## Screenshots Gallery
+
+| Screen | Preview |
+| :--- | :--- |
+| **Login Screen** | ![Login Screen](screenshots/00_Login_Screen.png) |
+| **Executive Dashboard Overview** | ![Dashboard Overview](screenshots/01_Dashboard_Overview.png) |
+| **Members Management** | ![Members Management](screenshots/02_Members_Management.png) |
+| **Member Profile & Details** | ![Member Profile Details](screenshots/03_Member_Profile_Details.png) |
+| **Membership Packages** | ![Membership Plans](screenshots/04_Membership_Plans.png) |
+| **Subscriptions & Renewals** | ![Subscriptions Renewals](screenshots/05_Subscriptions_Renewals.png) |
+| **Payments & Invoices Ledger** | ![Payments and Receipts](screenshots/06_Payments_and_Receipts.png) |
+| **Attendance Check-in / Check-out** | ![Attendance CheckIn](screenshots/07_Attendance_CheckIn.png) |
+| **Trainers & Coaches** | ![Trainers Coaches](screenshots/08_Trainers_Coaches.png) |
+| **Workout Plans & Routines** | ![Workout Plans](screenshots/09_Workout_Plans.png) |
+| **Operational Expenses** | ![Expenses Ledger](screenshots/10_Expenses_Ledger.png) |
+| **Financial & Operational Reports** | ![Financial Reports](screenshots/11_Financial_Reports.png) |
+| **Staff & User Roles** | ![Staff and Roles](screenshots/12_Staff_and_Roles.png) |
+| **Equipment & Maintenance** | ![Equipment Management](screenshots/13_Equipment_Management.png) |
+| **Subscription Expiry Alerts** | ![Expiry Notifications](screenshots/14_Expiry_Notifications.png) |
+| **Gym System Settings** | ![System Settings](screenshots/15_System_Settings.png) |
+| **Database Backup & Restore** | ![Backup and Restore](screenshots/16_Backup_and_Restore.png) |
+
+---
+
 ## License and Attribution
 
 This project is licensed under the MIT License. Designed and maintained for modern fitness club administration.
